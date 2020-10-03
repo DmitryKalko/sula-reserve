@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sula/static/css/main.22b8de4a.chunk.css",
+    "main.js": "/sula/static/js/main.b26c8587.chunk.js",
+    "main.js.map": "/sula/static/js/main.b26c8587.chunk.js.map",
+    "runtime-main.js": "/sula/static/js/runtime-main.3a1b7025.js",
+    "runtime-main.js.map": "/sula/static/js/runtime-main.3a1b7025.js.map",
+    "static/js/2.1de7bccd.chunk.js": "/sula/static/js/2.1de7bccd.chunk.js",
+    "static/js/2.1de7bccd.chunk.js.map": "/sula/static/js/2.1de7bccd.chunk.js.map",
+    "index.html": "/sula/index.html",
+    "precache-manifest.88909bb8c85d8b77ac3afddb0fcef16c.js": "/sula/precache-manifest.88909bb8c85d8b77ac3afddb0fcef16c.js",
+    "service-worker.js": "/sula/service-worker.js",
+    "static/css/main.22b8de4a.chunk.css.map": "/sula/static/css/main.22b8de4a.chunk.css.map",
+    "static/js/2.1de7bccd.chunk.js.LICENSE.txt": "/sula/static/js/2.1de7bccd.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/sula/static/media/logo.f4b99cca.png",
+    "static/media/logoFooter.png": "/sula/static/media/logoFooter.8daccb5d.png",
+    "static/media/App.css": "/sula/static/media/sertificate.a940ab03.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a1b7025.js",
+    "static/js/2.1de7bccd.chunk.js",
+    "static/css/main.22b8de4a.chunk.css",
+    "static/js/main.b26c8587.chunk.js"
+  ]
+}
